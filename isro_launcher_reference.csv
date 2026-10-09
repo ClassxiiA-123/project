@@ -1,0 +1,11 @@
+Vehicle,Status,Official capability / role,Source
+PSLV,Operational,LEO / SSO / Sub-GTO / GTO,ISRO launch-services/launcher pages
+GSLV,Operational,GTO; about 2-tonne class,ISRO launch-services/launcher pages
+LVM3,Operational,"GTO; 4-tonne class, LEO capability",ISRO launcher pages
+SSLV,Development / operationalisation programme,Up to about 500 kg to 500 km LEO,ISRO launch-services page
+SLV-3,Retired,Early experimental launcher,ISRO launcher/SLV pages
+ASLV,Retired,Experimental launcher,ISRO launcher pages
+Sounding Rockets,In use,Suborbital / sounding missions,ISRO launcher pages
+HRLV,Under development,Human spaceflight launch vehicle,ISRO launcher page
+RLV-TD,Technology demonstrator,Reusable launch vehicle technology,ISRO launcher page
+Scramjet Engine-TD,Technology demonstrator,Experimental technology flight,ISRO launcher page
